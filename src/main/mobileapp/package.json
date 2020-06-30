@@ -1,0 +1,12 @@
+{
+  "name": "io.cronapp.apps.posto6647b",
+  "displayName": "posto6647b",
+  "version": "1.0.0",
+  "description": "posto6647b",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "CronApp IDE",
+  "license": "Apache-2.0"
+}
